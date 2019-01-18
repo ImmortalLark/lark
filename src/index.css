@@ -1,0 +1,14 @@
+:root {
+  --color-primary-main: #000;
+  --color-primary-assist: #262626;
+  --color-secondary-main: #185f86;
+  --color-secondary-assist: #39b1da;
+}
+
+body {
+  color: #333;
+}
+ul, li {
+  margin: 0;
+  padding: 0;
+}
