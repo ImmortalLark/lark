@@ -5,17 +5,20 @@
   bottom: 0;
   width: 300px;
   background-color: var(--color-primary-main);
-  text-align: center;
   &__header {
     color: var(--color-secondary-assist);
     height: 80px;
     line-height: 80px;
     font-size: 40px;
+    text-align: center;
+    letter-spacing: 2px;
   }
   &__body {
     & > ul {
       display: flex;
       flex-direction: column;
+      padding-left: 30px;
+      border-top: 2px solid #fff;
       & > li {
         display: flex;
         flex-direction: column;

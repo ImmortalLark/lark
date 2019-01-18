@@ -1,8 +1,9 @@
 :root {
   --color-primary-main: #000;
   --color-primary-assist: #262626;
-  --color-secondary-main: #185f86;
-  --color-secondary-assist: #39b1da;
+  --color-secondary-main: #344955;
+  --color-secondary-assist: #232f34;
+  --color-secondary-assist: #4a6572;
 }
 
 body {
